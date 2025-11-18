@@ -52,3 +52,11 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+
+
+
+
+### DATASET LINK:-
+```bash
+"https://drive.google.com/file/d/1kz_j4KEHAsPU4WyldZPDBRD39H7oHCoy/view?usp=drive_link"
+```
